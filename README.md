@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ArcGIS, Python OpenCV, Angular, Spring, JUnit, and much more**
 
-- 👯 I’m looking to collaborate on **Software development, web development, data science, machine learning, artificial intelligence**
+- 👯 I’m looking to collaborate on **Software engineering, full-stack development, data science, machine learning and artificial intelligence**
 
 - 🤝 I’m looking for help with **Practical experience to help people and my skills.**
 
