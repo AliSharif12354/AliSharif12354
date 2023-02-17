@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ali Hassan Sharif</h1>
 <h3 align="center">I'm A developer looking to grow my skills in any way I can. Toronto, born and raised :)</h3>
 
-- 🔭 I’m currently working on **OpenCV, ArcGIS, and finishing my degree!**
+- 🔭 I’m currently working on **OpenCV, ArcGIS, Supervised learning, and finishing my degree!**
 
-- 🌱 I’m currently learning **ArcGIS, Python OpenCV, Angular, Spring, JUnit, and much more**
+- 🌱 I’m currently learning **ArcGIS, OpenCV, Angular, Modern JavaScript (Udemy), Machine Leaning Specialization (Coursera), and much more**
 
 - 👯 I’m looking to collaborate on **Software engineering, full-stack development, data science, machine learning and artificial intelligence**
 
-- 🤝 I’m looking for help with **Practical experience to help people and my skills.**
+- 🤝 I’m looking for help with **Practical experience in helping developers and my skills.**
 
-- 💬 Ask me about **Java/C++, Object oriented design, Full stack development, SQL, data structures, algorithm analysis, Linux, Leetcode, Haskell, and even things I might not know! Could be a good conversation.**
+- 💬 Ask me about **Java/C++, Object oriented design, Full stack development, SQL, data structures, algorithm analysis, ML, Linux, Leetcode, Haskell, and even things I might not know! Could be a good conversation.**
 
 - 📫 How to reach me **alisharif@cmail.carleton.ca**
 
