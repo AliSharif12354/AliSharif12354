@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Hassan Sharif</h1>
-<h3 align="center">I'm A developer looking to grow my skills in any way I can. Toronto, born and raised :)</h3>
+<h3 align="center">I'm a developer looking to grow my skills in any way I can. Toronto, born and raised :)</h3>
 
 - 🔭 I’m currently working on **OpenCV, ArcGIS, Supervised learning, and finishing my degree!**
 
