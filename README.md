@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ali Hassan Sharif</h1>
 <h3 align="center">I'm a developer looking to grow my skills in any way I can. Toronto, born and raised :)</h3>
+<h3 align="center">Currently a 4th year Honours Computer Science student at Carleton University. Graduating in December :crossed_fingers:</h3>
 
-- 🔭 I’m currently working on **OpenCV, ArcGIS, Supervised learning, Full-stack development, and finishing my degree!**
+- 🔭 I’m currently working on **OpenCV, ArcGIS, Supervised learning, Full-stack development (ReactJS, AWS API Manager, DynamoDB, and Lambda functions), and finishing up my degree!**
 
-- 🌱 I’m currently learning **ArcGIS, OpenCV, Angular, Modern JavaScript (Udemy), Machine Leaning Specialization (Coursera), and much more**
+- 🌱 I’m currently learning **AWS (Studying for the AWS Developer Associate certification), ArcGIS, OpenCV, ReactJS (Udemy and side-project ZamZamBB_Website), Modern JavaScript (Udemy), Machine Leaning Specialization (Coursera), and ofcourse my courses at Carleton atm! (COMP 4102, 4202, 3008, CGSC 1001, and PHIL 3140**
 
 - 👯 I’m looking to collaborate on **Software engineering, full-stack development, data science, machine learning and artificial intelligence**
 
-- 🤝 I’m looking for help with **Practical experience in helping developers and my skills.**
+- 🤝 I’m looking for help with **Practical experience in assisting in software and improving my skills!**
 
-- 💬 Ask me about **Object oriented design, Full stack development, SQL, DevOps, data structures, algorithm analysis, ML, Linux, Leetcode, Haskell, and even things I might not know! Could be a good conversation.**
+- 💬 Ask me about **Object oriented design, Full stack development, SQL, AWS, DevOps, data structures, algorithm analysis, ML, Linux, Leetcode, Haskell, and even things I might not know! Could be a good conversation.**
 
 - 📫 How to reach me **alisharif@cmail.carleton.ca**
 
