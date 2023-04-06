@@ -8,13 +8,13 @@
 
 - 👯 I’m looking to collaborate on **Software engineering, full-stack development, data science, machine learning and artificial intelligence**
 
-- 🤝 I’m looking for help with **Practical experience in assisting in software and improving my skills!**
+- 🤝 My goals for any employment: **Practical experience in assisting in software and improving my skills!**
 
 - 💬 Ask me about **Object oriented design, Full stack development, SQL, AWS, DevOps, data structures, algorithm analysis, ML, Linux, Leetcode, Haskell, and even things I might not know! Could be a good conversation.**
 
-- 📫 How to reach me **alisharif@cmail.carleton.ca**
+- 📫 Reach me at **alisharif@cmail.carleton.ca**
 
-- ⚡ Fun fact **Play me a game in chess if you're up for a challenge.**
+- ⚡ Fun fact: **Play me a game in chess if you're up for a challenge.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
