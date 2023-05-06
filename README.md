@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali Hassan Sharif</h1>
 <h3 align="center">I'm a developer looking to grow my skills in any way I can. Toronto, born and raised :)</h3>
-<h3 align="center">Currently a 4th year Honours Computer Science student at Carleton University. Graduating in December :crossed_fingers:</h3>
+<h3 align="center">4th year Honours Computer Science student at Carleton University. Philosophy Minor. Graduating in December :crossed_fingers:</h3>
 
 - 🔭 I’m currently working on **OpenCV, ArcGIS, Supervised learning, Full-stack development (ReactJS, AWS API Manager, DynamoDB, and Lambda functions), and finishing up my degree!**
 
