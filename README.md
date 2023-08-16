@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **OpenCV, ArcGIS, Supervised learning, Full-stack development (ReactJS, AWS API Manager, DynamoDB, and Lambda functions), and finishing up my degree!**
 
-- 🌱 I’m currently learning **AWS (Studying for the AWS Developer Associate certification), ArcGIS, OpenCV, ReactJS (Udemy and side-project ZamZamBB_Website), Modern JavaScript (Udemy), Machine Leaning Specialization (Coursera), and ofcourse my courses at Carleton atm! (COMP 4102, 4202, 3008, CGSC 1001, and PHIL 3140)**
+- 🌱 I’m currently learning **AWS (AWS Certified Cloud Practitioner), ArcGIS, OpenCV, ReactJS (Udemy and freelancing Zam Zam Bags and SilentPaws), Modern JavaScript (Udemy), Machine Leaning Specialization (Coursera), and ofcourse my courses at Carleton atm! (COMP 4102, 4202, 3008, CGSC 1001, and PHIL 3140)**
 
 - 👯 I’m looking to collaborate on **Software engineering, full-stack development, data science, machine learning and artificial intelligence**
 
