@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ali Hassan Sharif</h1>
-<h3 align="center">I'm a developer looking to grow my skills in any way I can. Toronto, born and raised :)</h3>
+<h3 align="center">I'm a developer looking to promote my skills in any way I can. Toronto, born and raised</h3>
 <h3 align="center">4th year Honours Computer Science student at Carleton University. Philosophy Minor. Graduating in December 2023 :crossed_fingers:</h3>
 
-- 🔭 I’m currently working on **OpenCV, ArcGIS, Supervised learning, Full-stack development (ReactJS, AWS API Manager, DynamoDB, and Lambda functions), and finishing up my degree!**
+- 🔭 I’m currently working on **Cloud Infrastructure, Reinforcement Learning ML Models, the importance of Software Quality Assurance (Test Driven Development, JUnit, Selenium, Cucumber), Modernized Full-stack development (ReactJS, AWS API Manager, DynamoDB, and Lambda functions), and finishing up my degree!**
 
-- 🌱 I’m currently learning **AWS (AWS Certified Cloud Practitioner), ArcGIS, OpenCV, ReactJS (Udemy and freelancing Zam Zam Bags and SilentPaws), Modern JavaScript (Udemy), Machine Leaning Specialization (Coursera), and ofcourse my courses at Carleton atm! (COMP 4102, 4202, 3008, CGSC 1001, and PHIL 3140)**
+- 🌱 I’m currently learning **Cloud Technologies, AWS (AWS Certified Cloud Practitioner), Azure, Google Cloud, and industry leading tools such as ArcGIS, OpenCV, ReactJS (Udemy and freelancing Zam Zam Bags and SilentPaws), Machine Leaning Specialization (Coursera), and ofcourse my courses at Carleton atm! (COMP 4900 (Reinforcement Learning), 4004 (Software Testing), 4601 (Intelligent Multi Media Systems), 3105 (Machine Learning), and a History Elective to top it off)**
 
-- 👯 I’m looking to collaborate on **Software engineering, full-stack development, data science, machine learning and artificial intelligence**
+- 👯 I’m looking to collaborate on **Software Development (Agile Methodologies), Cloud Infrastrucure Solutions, Data science, Reinforcment Learning and Artificial Intelligence**
 
-- 🤝 My goals for any employment: **Practical experience in assisting in software and improving my skills!**
+- 🤝 My goals for any employment: **Practical experience bringing life to software solutions and promoting my skills to accomplish exactly that.**
 
-- 💬 Ask me about **Object oriented design, Full stack development, SQL, AWS, DevOps, data structures, algorithm analysis, ML, Linux, Leetcode, Haskell, and even things I might not know! Could be a good conversation.**
+- 💬 Ask me about **Object oriented design (LinkedIn Certified), Full stack development, SQL, AWS (Certified Cloud Practitioner), DevOps, data structures, algorithm analysis, ML, Linux, Leetcode, Haskell, and even things I might not know! Could be a good conversation.**
 
 - 📫 Reach me at **alisharif@cmail.carleton.ca**
 
