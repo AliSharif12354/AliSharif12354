@@ -14,7 +14,7 @@
 
 - 📫 Reach me at **alisharif@cmail.carleton.ca**
 
-- ⚡ Fun fact: **Play me a game in chess if you're up for a challenge.**
+- ⚡ Fun fact: **Play me a game in chess if you're up for a challenge. Chess.com: https://friend.chess.com/3se9s**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
