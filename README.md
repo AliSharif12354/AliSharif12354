@@ -32,4 +32,6 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AliSharif12354&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10" alt="Ali Sharif" />
 </p>
 
+![](https://komarev.com/ghpvc/?username=AliSharif12354&style=flat-square)
+
 
