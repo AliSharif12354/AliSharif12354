@@ -30,8 +30,6 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AliSharif12354&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10" alt="Ali Sharif" />
 </p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AliSharif12354&show_icons=true&locale=en&title_color=00f0d0&icon_color=bb2acf&text_color=daf7dc&bg_color=000314" alt="Ali Sharif" /></p>
-
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AliSharif12354&theme=rising-sun&border_radius=7.2&hide_longest_streak=true" alt="Ali Sharif" /></p>
 
 
