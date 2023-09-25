@@ -2,6 +2,8 @@
 <h3 align="center">I'm a developer looking to promote my skills in any way I can. Toronto, born and raised</h3>
 <h3 align="center">4th year Honours Computer Science student at Carleton University. Philosophy Minor. Graduating in December 2023 :crossed_fingers:</h3>
 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AliSharif12354&theme=rising-sun&border_radius=7.2&hide_longest_streak=true" alt="Ali Sharif" /></p>
+
 - 🔭 I’m currently working on **Cloud Infrastructure, Reinforcement Learning ML Models, the importance of Software Quality Assurance (Test Driven Development, JUnit, Selenium, Cucumber), Modernized Full-stack development (ReactJS, AWS API Manager, DynamoDB, and Lambda functions), and finishing up my degree!**
 
 - 🌱 I’m currently learning **Cloud Technologies, AWS (AWS Certified Cloud Practitioner), Azure, Google Cloud, and industry leading tools such as ArcGIS, OpenCV, ReactJS (Udemy and freelancing Zam Zam Bags and SilentPaws), Machine Leaning Specialization (Coursera), and ofcourse my courses at Carleton atm! (COMP 4900 (Reinforcement Learning), 4004 (Software Testing), 4601 (Intelligent Multi Media Systems), 3105 (Machine Learning), and a History Elective to top it off)**
@@ -29,8 +31,6 @@
 <p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AliSharif12354&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10" alt="Ali Sharif" />
 </p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AliSharif12354&theme=rising-sun&border_radius=7.2&hide_longest_streak=true" alt="Ali Sharif" /></p>
 
 
 
