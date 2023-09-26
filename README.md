@@ -2,7 +2,7 @@
 <h3 align="center">I'm a developer looking to promote my skills in any way I can. Toronto, born and raised</h3>
 <h3 align="center">4th year Honours Computer Science student at Carleton University. Philosophy Minor. Graduating in December 2023 :crossed_fingers:</h3>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AliSharif12354&theme=rising-sun&border_radius=7.2&hide_longest_streak=true" alt="Ali Sharif" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AliSharif12354&theme=rising-sun&border_radius=7.2&hide_longest_streak=true" alt="" /></p>
 
 - 🔭 I’m currently working on **Cloud Infrastructure, Reinforcement Learning ML Models, the importance of Software Quality Assurance (Test Driven Development, JUnit, Selenium, Cucumber), Modernized Full-stack development (ReactJS, AWS API Manager, DynamoDB, and Lambda functions), and finishing up my degree!**
 
