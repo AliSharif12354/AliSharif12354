@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali Hassan Sharif</h1>
 <h3 align="center">I'm a developer looking to promote my skills in any way I can. Toronto, born and raised</h3>
-<h3 align="center">4th year Honours Computer Science student at Carleton University. Philosophy Minor. Graduating in December 2023 :crossed_fingers:</h3>
+<h3 align="center">Fresh BSc. Graduate from Carleton University! Honours Computer Science with a Minor in Philosophy :crossed_fingers:</h3>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AliSharif12354&theme=rising-sun&border_radius=7.2&hide_longest_streak=true" alt="" /></p>
 
